@@ -1,0 +1,38 @@
+@import url("components/container.css");
+@import url("components/card-white.css");
+@import url("components/btn-green.css");
+@import url("components/list-inline.css");
+@import url("components/image-circle.css");
+@import url("components/travel-img.css");
+
+body {
+	background-color: E3DBDB;
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+
+h1 {
+font-family: Arial; 
+font-weight: bold;
+letter-spacing: 2px;
+color: 40798C;
+}
+
+h2 {
+font-weight: lighter;
+}
+
+a {
+text-decoration: none;
+color: rgb(131, 166, 151);
+}
+
+a:hover {
+	color: black;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+
